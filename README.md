@@ -55,6 +55,9 @@ return note != null && !note.trim().isEmpty();
 
 
 ✅ Sample Output
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3d5310f-bffe-4940-895d-75af53b8f8d2" />
+
 📒 Notes App
 1. Write a note
 2. Read all notes
