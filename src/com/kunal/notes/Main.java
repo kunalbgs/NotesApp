@@ -16,7 +16,7 @@ public class Main {
             System.out.print(" Choose option: ");
             int choice = scanner.nextInt();
             scanner.nextLine(); // consume newline
-            sss
+
 
             switch (choice) {
                 case 1:
